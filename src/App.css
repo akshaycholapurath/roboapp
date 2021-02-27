@@ -38,6 +38,9 @@
 }
 
 h1{
-  font-weight: 500;
-  color: rgba(170, 13, 131, 0.795);
+  color: rgba(15, 224, 179, 0.897);
+  font-family: Oswald, sans-serif;
+  font-weight: bold;
+  font-size: 50px !important;
+  text-shadow:2px 2px 4px #f70101;
 }
